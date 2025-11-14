@@ -1,109 +1,91 @@
 <div align="center">
 
 <!-- AI / Neural Network GIF -->
-
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/qGk8Fv5A8eI7i/giphy.gif" width="100%" alt="Neural Network Animation">
+<img src="https://media.giphy.com/media/qGk8Fv5A8eI7i/giphy.gif" width="100%" alt="Neural Network Animation">
 
 <h1>Hi there, I'm Shaik Ahmed Ali 👋</h1>
 
-<p>
-<b>Aspiring Machine Learning & AI Engineer based in Bengaluru 📍</b>
-
-
-
-
-
-<i>Building intelligent solutions from complex data.</i>
-</p>
+<p><b>Aspiring Machine Learning & AI Engineer based in Bengaluru 📍</b><br>
+<i>Building intelligent solutions from complex data.</i></p>
 
 <!-- Socials -->
-
-<a href="YOUR_LINKEDIN_URL_HERE">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge">
+<a href="https://www.linkedin.com/in/shaik-ahmed-ali-891176345/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
+
 <a href="mailto:shaikahmedali009@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
 </a>
+
 </div>
 
-🧠 About Me
+---
 
-I'm a B.Tech graduate in Computer Science & AI from REVA University, passionate about the entire machine learning lifecycle. My focus is on turning raw data into meaningful, predictive models.
+# 🧠 About Me
+I'm a B.Tech student in Computer Science & AI at REVA University, passionate about the entire machine learning lifecycle — from data cleaning and EDA to model development and deployment.
 
-🤖 Exploring: Deep Learning frameworks like TensorFlow/Keras and PyTorch.
+- 🤖 Exploring: Deep Learning (TensorFlow, Keras, PyTorch)
+- 📊 Mastering: Feature engineering, model evaluation and ML pipelines
+- 📈 Always learning: New ML techniques, data visualization, and AI tools
 
-📊 Mastering: The data science pipeline, from EDA and feature engineering to model evaluation.
+---
 
-📈 Learning: Always looking for the next challenge and a collaborative team to grow with.
-
-🛠️ My Tech Stack
-
-Here are the tools and technologies I work with:
+# 🛠️ My Tech Stack
 
 <p align="center">
+
 <!-- ML / Data Science -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Numpy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" alt="Numpy">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Keras-D00000%3Fstyle%3Dfor-the-badge%26logo%3Dkeras%26logoColor%3Dwhite" alt="Keras">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 
-<!-- Viz -->
+<!-- Visualization -->
+<img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-34A853?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-313131%3Fstyle%3Dfor-the-badge%26logo%3Dmatplotlib%26logoColor%3Dwhite" alt="Matplotlib">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Seaborn-34A853%3Fstyle%3Dfor-the-badge%26logo%3Dseaborn%26logoColor%3Dwhite" alt="Seaborn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Plotly-3F4F75%3Fstyle%3Dfor-the-badge%26logo%3Dplotly%26logoColor%3Dwhite" alt="Plotly">
-
-<!-- Other -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++">
+<!-- Languages -->
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 
 <!-- Tools -->
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" alt="Jupyter">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-🚀 My Key Projects
+---
 
-Here are a few of my projects. (Replace YOUR_USERNAME and REPO_NAME to pin your actual repos!)
+# 🚀 My Key Projects
 
 <div align="center">
-<!--
-Instructions:
-1. Replace 'YOUR_USERNAME' with your GitHub username (e.g., shaikahmedali)
-2. Replace 'REPO_NAME' with the name of your repository (e.g., House-Price-Prediction)
-3. You can add more of these for your other projects!
--->
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/House-Price-Prediction">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DYOUR_USERNAME%26repo%3DHouse-Price-Prediction%26theme%3Dradical%26hide_border%3Dtrue%26icon_color%3D00FFFF%26title_color%3D00FFFF%26text_color%3DFFFFFF" />
+
+<a href="https://github.com/shaikahmed09/House_price_prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikahmed09&repo=House_price_prediction&theme=radical&hide_border=true" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/Credit-Card-Fraud-Detection">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DYOUR_USERNAME%26repo%3DCredit-Card-Fraud-Detection%26theme%3Dradical%26hide_border%3Dtrue%26icon_color%3D00FFFF%26title_color%3D00FFFF%26text_color%3DFFFFFF" />
+
+<a href="https://github.com/shaikahmed09/Credit_card_fraud_detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikahmed09&repo=Credit_card_fraud_detection&theme=radical&hide_border=true" />
 </a>
+
 </div>
 
-🔥 My GitHub Activity
+---
+
+# 🔥 My GitHub Activity
 
 <div align="center">
-<!-- Replace 'YOUR_USERNAME' with your GitHub username -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=shaikahmed09&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikahmed09&theme=radical&hide_border=true" alt="GitHub Streak">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikahmed09&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dradical%26hide_border%3Dtrue" alt="GitHub Streak" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
 </div>
