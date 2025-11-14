@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- AI / Neural Network GIF -->
-<img src="https://media.giphy.com/media/qGk8Fv5A8eI7i/giphy.gif" width="100%" alt="Neural Network Animation">
 
 <h1>Hi there, I'm Shaik Ahmed Ali 👋</h1>
 
