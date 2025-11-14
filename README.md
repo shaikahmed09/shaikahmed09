@@ -20,7 +20,7 @@
 ---
 
 # 🧠 About Me
-I'm a B.Tech student in Computer Science & AI at REVA University, passionate about the entire machine learning lifecycle — from data cleaning and EDA to model development and deployment.
+I'm a B.Tech student in Computer Science & Systems Engineering at REVA University, passionate about the entire machine learning lifecycle — from data cleaning and EDA to model development and deployment.
 
 - 🤖 Exploring: Deep Learning (TensorFlow, Keras, PyTorch)
 - 📊 Mastering: Feature engineering, model evaluation and ML pipelines
