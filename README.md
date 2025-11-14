@@ -5,9 +5,6 @@
 <h1 align="center">✨ Hey! I'm <span style="color:#00b7ff;">Shaik Ahmed Ali</span> ✨</h1>
 <h3 align="center">🤖 Machine Learning Engineer in the Making | 🧠 AI Explorer | 🚀 Tech Builder</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FycWprNm42MHh0MzEycm1uNmxqMm1xcWd3anF0bjM3Ymp4YnF4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dk57URqkLitWg/giphy.gif" width="220"/>
-</p>
 
 ---
 
